@@ -1,0 +1,50 @@
+body {
+    background-color: #007A33;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+}
+
+h3 {
+    color: #FFD700;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    color: #FFD700;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-size: 16px;
+    line-height: 2;
+}
